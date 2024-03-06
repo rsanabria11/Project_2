@@ -108,4 +108,12 @@ section {
 .cat-pics img {
   max-width: 400px;
   max-height: 400px;
+}
 
+.header-resume {
+	background-color:#fde6ff;
+  margin-left: 3em;
+  margin-right: 3em;
+  border-radius: 1em;
+
+}

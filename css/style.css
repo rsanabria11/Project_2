@@ -13,7 +13,8 @@ h1, h2, h3, li {
 
 .cat-body h2 {
   font-size: 2em;
-  color: hotpink;
+  color: white;
+  font-style: bold;
 }
 
 h3 {

@@ -9,7 +9,14 @@ h1, h2, h3, li {
 .birthday-body h1{
  	font-size: 2.5em;
  	color: magenta;
-}
+ }
+
+ .resume-body h1{
+ 	font-size: 2.5em;
+ 	color: grey;
+
+ }
+
 
 .cat-body h2 {
   font-size: 2em;
@@ -110,10 +117,4 @@ section {
   max-height: 400px;
 }
 
-.header-resume {
-	background-color:#fde6ff;
-  margin-left: 3em;
-  margin-right: 3em;
-  border-radius: 1em;
 
-}
